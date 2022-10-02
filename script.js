@@ -10,4 +10,5 @@ console.log (Nombre3);
 //#region 
 Nombre1 = 19;
 Nombre2 = 17;
+var Respuesta = Nombre1 + Nombre2;
 //#endregion
