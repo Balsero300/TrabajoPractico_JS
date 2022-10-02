@@ -16,4 +16,5 @@ console.log ("La sumatoria de " + Nombre1 + " y " + Nombre2 + " es igual a " + R
 //#region 
 let array1 = [`Luca`, `Noel`, `Santarelli `];
 let array2 = [`este`,`es otro`,`array`];
+console.log (array1 + array2);
 //#endregion
