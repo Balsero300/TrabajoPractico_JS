@@ -13,3 +13,6 @@ Nombre2 = 17;
 var Respuesta = Nombre1 + Nombre2;
 console.log ("La sumatoria de " + Nombre1 + " y " + Nombre2 + " es igual a " + Respuesta);
 //#endregion
+//#region 
+let array1 = [`Luca`, `Noel`, `Santarelli `];
+//#endregion
